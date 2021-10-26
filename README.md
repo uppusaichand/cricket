@@ -3,4 +3,6 @@ team
 ms dhoni
 suresh raina
 rutu
-faf
+thakur 
+deepak
+thair
